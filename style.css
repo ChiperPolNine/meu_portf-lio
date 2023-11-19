@@ -116,7 +116,8 @@ section.head-do-site .txt-head-site p{          /* cor e margem do paragrafo */
 
 section.head-do-site .img-head-site img{        /* tamanho da imagem 1 */
     width: 30vw;
-    padding: 150px 8%;                    
+    padding: 150px 8%;
+    border-radius: 50px;
 }
 
 
